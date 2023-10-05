@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">testLoading</string>
+    <string name="change_animation">Change animation</string>
+</resources>
